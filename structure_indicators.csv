@@ -1,0 +1,10 @@
+sector;cost_ratio;ncurrent_ratio;asset_turnover;opincome_ratio
+Basic Materials;51,17;77,13;0,4;27,23
+Communication Services;51,51;70,3;0,68;29,49
+Consumer Cyclical;63,47;72,0;0,88;11,16
+Consumer Defensive;44,15;70,18;0,59;29,17
+Healthcare;29,76;72,08;0,47;27,82
+Industrials;68,51;46,76;0,52;16,5
+Real Estate;25,42;94,3;0,16;38,84
+Technology;50,48;64,97;0,45;31,97
+Utilities;50,98;93,61;0,16;26,61
